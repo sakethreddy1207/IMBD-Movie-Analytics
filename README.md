@@ -33,9 +33,9 @@ Data Visualization :
 2.Built simple dashboards to present business insights
 
 Key Insights :
-1.Some years consistently produced the highest-grossing movies.
-2.Movie ratings vary slightly across genres, but certain genres perform better.
-3.A few directors maintain higher average ratings than others.
-4.Higher movie budgets generally relate to higher gross revenue.
-5.One genre clearly stands out as the most profitable overall.
+1.Some years consistently produced the highest-grossing movies
+2.Movie ratings vary slightly across genres, but certain genres perform better
+3.A few directors maintain higher average ratings than others
+4.Higher movie budgets generally relate to higher gross revenue
+5.One genre clearly stands out as the most profitable overall
 
