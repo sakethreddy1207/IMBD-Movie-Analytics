@@ -2,9 +2,10 @@
 ---
 ## Project Overview :
 
-I started with a CSV file that contains IMDB movie details such as title, genre, rating, budget, gross revenue, director, and release year.The data had missing values, duplicates, and inconsistent records, so I first performed proper data cleaning (ETL process) in Python.
-
-After cleaning, the processed data was loaded into a MySQL database, where I wrote SQL queries to analyze movie performance.Finally, I created visual dashboards using Matplotlib to understand trends like revenue, ratings, profitability, and director performance.
+This project focuses on analyzing an IMDB movie dataset using Python and MySQL.
+The dataset was provided in CSV format and includes details such as movie title, genre, rating, budget, gross revenue, director, and release year.
+Since the raw data contained missing values, duplicate records, and inconsistent entries, I first performed data cleaning and transformation using Python as part of the ETL process.
+After preparing the clean dataset, I loaded it into a MySQL database and used SQL queries to analyze movie performance. Finally, I created visual dashboards using Matplotlib to explore trends related to revenue, ratings, profitability, and director performance.
 
 ---
 ## Tools & Technologies Used :
