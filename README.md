@@ -51,6 +51,39 @@ After preparing the clean dataset, I loaded it into a MySQL database and used SQ
 ## Data Visualization 
 - Created bar charts, line charts, and scatter plots using Matplotlib
 - Built simple dashboards to present business insights
+- Dashboard Modules & Analysis
+
+## 🔹 Dashboard 1: Revenue Analysis
+
+ - Top 10 highest grossing movies by year
+
+ - Year-wise revenue trends
+
+ - Comparison of gross revenue across different years
+
+## 🔹 Dashboard 2: Genre Performance Insights
+
+- Average rating distribution across genres
+
+- Total movies released per genre
+
+- Genre-wise profitability comparison
+
+## 🔹 Dashboard 3: Director Performance Analysis
+
+ - Top 5 directors based on average movie rating
+
+ - Director-wise movie count
+
+ - Comparison of director performance by ratings
+
+## 🔹 Dashboard 4: Budget & Profitability Analysis
+
+ - Budget vs Gross revenue correlation
+
+ - Most profitable genre (Gross − Budget)
+
+ - Overall profit trends across movies
 ---
 ## Key Insights 
 - Some years consistently produced the highest-grossing movies
