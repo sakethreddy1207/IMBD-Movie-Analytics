@@ -8,6 +8,23 @@ Since the raw data contained missing values, duplicate records, and inconsistent
 After preparing the clean dataset, I loaded it into a MySQL database and used SQL queries to analyze movie performance. Finally, I created visual dashboards using Matplotlib to explore trends related to revenue, ratings, profitability, and director performance.
 
 ---
+## Repository Contents
+ - `IMDB Movie Business Rules and dashboard_problems statements.txt`
+ 
+    This file includes the business rules followed during the ETL process and the problem statements used for building the dashboards.
+
+- `imdb_ddl.sql`
+
+   SQL script used to create the database and table structure for storing the cleaned IMDB data in MySQL.
+
+- `imdb_movies.csv`
+
+    Raw IMDB movie dataset in CSV format used as the primary data source for this project.
+
+- `IMDB Movie Analytics.ipynb`
+
+    Main Jupyter Notebook containing the complete ETL process, SQL analysis, and data visualizations.
+---
 ## Tools & Technologies Used 
 - Python (Pandas, NumPy, Matplotlib)
 - MySQL for data storage and SQL analysis
@@ -15,7 +32,6 @@ After preparing the clean dataset, I loaded it into a MySQL database and used SQ
 - Jupyter Notebook for development
 ---
 ## Steps Followed 
----
 ## Data Cleaning in Python 
 - Removed duplicate movies using title and release year
 - Generated missing movie IDs
