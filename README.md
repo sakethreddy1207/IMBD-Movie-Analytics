@@ -1,3 +1,5 @@
+## IMDB Movie Dataset Analysis - P1
+---
 ## Project Overview :
 
 I started with a CSV file that contains IMDB movie details such as title, genre, rating, budget, gross revenue, director, and release year.The data had missing values, duplicates, and inconsistent records, so I first performed proper data cleaning (ETL process) in Python.
